@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="transition-26.0.0-alpha1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/adt-bundle-windows-x86_64-20140702/sdk/.android/build-cache/f3479e8c742390ecc4b6439d78ac33f786387a80/output/res" />
+      <root url="jar://$USER_HOME$/Desktop/adt-bundle-windows-x86_64-20140702/sdk/.android/build-cache/f3479e8c742390ecc4b6439d78ac33f786387a80/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://F:/SDK/extras/android/m2repository/com/android/support/transition/26.0.0-alpha1/transition-26.0.0-alpha1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">jjsq</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="chicangjingzhi">持仓净值</string>
+	<string name="chicangfene">持仓份额</string>
+	<string name="chicangzonge">持仓总额</string>
+	<string name="bucangjingzhi">补仓净值</string>
+	<string name="bucangfene">补仓份额</string>
+	<string name="bucangzonge">补仓总额</string>
+	<string name="jiancangjingzhi">减仓净值</string>
+	<string name="jiancangfene">减仓份额</string>
+	<string name="jiancangzonge">减仓总额</string>
+	<string name="caozuohouzonge">操作后总额</string>
+	<string name="chicangyingkui">持仓盈亏</string>
+	<string name="bucangyingkui">补仓盈亏</string>
+	<string name="jiancangyingkui">减仓盈亏</string>
+	<string name="querenjiacang">确认加仓</string>
+	<string name="querencaozuo">确认操作</string>
+	<string name="quxiaocaozuo">取消操作</string>
+	
+	    
+	
+	
+
+</resources>

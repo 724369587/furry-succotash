@@ -1,0 +1,24 @@
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item android:id="@+id/router_bus"
+        android:title="公交查询"
+        android:orderInCategory="80"
+        android:src="@drawable/route_bus_normal"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/router_walk"
+        android:title="步行查询"
+        android:orderInCategory="90"
+        android:src="@drawable/route_walk_normal"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/router_busstop"
+        android:title="公交站点查询"
+        android:orderInCategory="100"
+        android:src="@drawable/route_bus_normal"
+        app:showAsAction="never"/>
+</menu>
