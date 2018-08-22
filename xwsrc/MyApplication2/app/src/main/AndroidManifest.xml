@@ -12,12 +12,19 @@
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity android:name=".secondActivity">
             <intent-filter>
                 <action android:name="second_ACTION_START" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".thirdActivity">
+            <intent-filter>
+                <action android:name="third_ACTION_START" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>

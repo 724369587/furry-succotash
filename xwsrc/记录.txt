@@ -1,0 +1,9 @@
+2018-8-21
+API 24 ºÍ API 15
+Android SDK Build-Tools
+Android SDK Platform-Tools
+Android SDK Tools
+
+ConstraintLayout for Android
+Solver for ConstraintLayout
+Android Support Repository

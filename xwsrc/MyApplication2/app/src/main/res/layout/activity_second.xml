@@ -26,10 +26,10 @@
             android:maxLines="2"
             />
         <Button
-            android:id="@+id/send"
+            android:id="@+id/add"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Send"
+            android:text="add"
             />
     </LinearLayout>
 

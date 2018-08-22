@@ -25,6 +25,14 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+        Button button2 = (Button) findViewById(R.id.BT_2);
+        button2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent("third_ACTION_START");
+                startActivity(intent);
+            }
+        });
        // ArrayAdapter<String> adapter;
         //adapter = new ArrayAdapter<String>(MainActivity.this, R.layout.listview,data);
        // ListView listView = (ListView) findViewById(list_view);
