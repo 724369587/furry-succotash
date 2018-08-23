@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:icon="@drawable/ic_android"
+            android:id="@+id/nav_android"
+            android:title="Android"></item>
+        <item
+            android:icon="@drawable/ic_map"
+            android:id="@+id/nav_map"
+            android:title="Map"></item>
+        <item
+            android:icon="@drawable/ic_cloud"
+            android:id="@+id/nav_cloud"
+            android:title="Cloud"></item>
+        <item
+            android:icon="@drawable/ic_build"
+            android:id="@+id/nav_bulid"
+            android:title="Bulid"></item>
+    </group>
+</menu>
